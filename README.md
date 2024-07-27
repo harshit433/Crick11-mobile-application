@@ -59,16 +59,17 @@ Crick11 is a Flutter mobile application that provides a platform similar to Drea
 - **Live Scores Screen**: Displays live scores of ongoing matches.
 
 ## ScreenShots
-![c8](https://github.com/user-attachments/assets/d8d2dcbe-0227-491e-8ee6-0c5a9702a579)
-![c4](https://github.com/user-attachments/assets/6f36c404-1cf3-4b6b-a334-d7f9a4adbebf)
-![c1](https://github.com/user-attachments/assets/6f2fd5de-29d4-4eaa-a1af-2bfe28deac72)
-![c2](https://github.com/user-attachments/assets/46e13a39-8f55-483a-b254-bca375ac0a9b)
-![c3](https://github.com/user-attachments/assets/10604bb4-8d7f-495d-b10d-7c79fa9d529c)
-![c7](https://github.com/user-attachments/assets/56a2ef6b-13b6-48ea-a504-009b8dc3b160)
-![c6](https://github.com/user-attachments/assets/1ff393c1-eaf4-404d-927a-8b06d9ca318a)
-![c5](https://github.com/user-attachments/assets/1b90bf96-387c-4613-9dda-77067ffc8ad1)
 
-
+<p float = 'left'>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c8.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c4.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c1.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c2.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c3.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c7.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c6.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c5.jpg" width = "300"/>
+</p>
 ## Models
 
 - **User Model**: Represents user data.
