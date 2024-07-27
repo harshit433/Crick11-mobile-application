@@ -61,7 +61,7 @@ Crick11 is a Flutter mobile application that provides a platform similar to Drea
 ## ScreenShots
 
 <p float = 'left'>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c8.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c8.jpg" width = "300" style='margin:2rem;'/>
 <img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c4.jpg" width = "300"/>
 <img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c1.jpg" width = "300"/>
 <img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c2.jpg" width = "300"/>
