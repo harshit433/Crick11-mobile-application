@@ -1,6 +1,5 @@
 # Crick11
 
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c1.jpg" width = "300"/>
 Crick11 is a Flutter mobile application that provides a platform similar to Dream11 where users can sign up, log in, create teams, contest with others, and view live scores. The application supports multiple types of games such as cricket, football, kabaddi, and more. Users can contest for real money with dedicated wallets for depositing and withdrawing money. The designs are responsive to ensure a seamless experience across various devices. The project uses BLoC state management for efficient state handling and improved code organization.
 
 ## Features
