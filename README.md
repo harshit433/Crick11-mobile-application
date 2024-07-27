@@ -59,17 +59,27 @@ Crick11 is a Flutter mobile application that provides a platform similar to Drea
 - **Live Scores Screen**: Displays live scores of ongoing matches.
 
 ## ScreenShots
-
+#### Home Screen
 <p float = 'left'>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c8.jpg" width = "300" style='margin:2rem;'/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c4.jpg" width = "300"/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c1.jpg" width = "300"/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c2.jpg" width = "300"/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c3.jpg" width = "300"/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c7.jpg" width = "300"/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c6.jpg" width = "300"/>
-<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c5.jpg" width = "300"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c8.jpg" width = "200"/>
 </p>
+
+#### Bottom navigation Screens
+<p float = 'left'>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c4.jpg" width = "200"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c1.jpg" width = "200"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c2.jpg" width = "200"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c3.jpg" width = "200"/>
+</p>
+
+#### User Handles
+<p float = 'left'>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c7.jpg" width = "200"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c6.jpg" width = "200"/>
+<img src= "https://github.com/harshit433/Crick11-mobile-application/blob/main/ScreenShots/c5.jpg" width = "200"/>
+</p>
+
+
 ## Models
 
 - **User Model**: Represents user data.
